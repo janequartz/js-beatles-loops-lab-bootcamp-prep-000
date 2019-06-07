@@ -17,3 +17,11 @@ function johnLennonFacts(arr){
   }
   return newArr
 }
+
+function iLoveTheBeatles(num){
+  let arr = []
+  let i = 0
+  do {
+    arr[i] = 
+  }
+}
