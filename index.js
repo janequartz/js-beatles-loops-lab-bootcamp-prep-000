@@ -11,7 +11,7 @@ function theBeatlesPlay(arr1, arr2){
 function johnLennonFacts(arr){
   let i =0
   let newArr = []
-  while (i <= arr.length){
+  while (i < arr.length){
     newArr[i] = arr[i] + "!!!"
     i++
   }
